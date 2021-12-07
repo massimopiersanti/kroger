@@ -1,0 +1,1649 @@
+{
+    "fruit": [
+        {
+            "productId": "0003338320027",
+            "upc": "0003338320027",
+            "aisleLocations": [],
+            "categories": [
+                "Produce"
+            ],
+            "description": "Strawberries",
+            "images": [
+                {
+                    "perspective": "left",
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/left/0003338320027"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/left/0003338320027"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/left/0003338320027"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/left/0003338320027"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/left/0003338320027"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0003338320027"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0003338320027"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0003338320027"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0003338320027",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "1 lb"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0000000094011",
+            "upc": "0000000094011",
+            "aisleLocations": [],
+            "categories": [
+                "Natural & Organic",
+                "Produce"
+            ],
+            "countryOrigin": "COLOMBIA; COSTA RICA; ECUADOR; GUATEMALA; HONDURAS; MEXICO; PERU",
+            "description": "Organic Banana",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0000000094011"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0000000094011"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0000000094011"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0000000094011"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0000000094011"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0000000094011",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "1 ct"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Ambient",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0003338322101",
+            "upc": "0003338322101",
+            "aisleLocations": [],
+            "categories": [
+                "Produce"
+            ],
+            "description": "Blueberries",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0003338322101"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0003338322101"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0003338322101"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0003338322101"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0003338322101"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0003338322101",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "1 pt"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0003338314616",
+            "upc": "0003338314616",
+            "aisleLocations": [],
+            "brand": "Halos",
+            "categories": [
+                "Produce"
+            ],
+            "description": "Seedless Spanish Clementines",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0003338314616"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0003338314616"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0003338314616"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0003338314616"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0003338314616"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0003338314616",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "3 lb"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Ambient",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0003338324000",
+            "upc": "0003338324000",
+            "aisleLocations": [],
+            "brand": "Driscoll's",
+            "categories": [
+                "Produce"
+            ],
+            "description": "Berries - Blackberries-CT",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0003338324000"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0003338324000"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0003338324000"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0003338324000"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0003338324000"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0003338324000",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "6 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        }
+    ],
+    "vegetable": [
+        {
+            "productId": "0071651901304",
+            "upc": "0071651901304",
+            "aisleLocations": [],
+            "brand": "Mann's",
+            "categories": [
+                "Produce"
+            ],
+            "countryOrigin": "UNITED STATES",
+            "description": "Mann's Family Favorites Vegetable Medley",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0071651901304"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0071651901304"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0071651901304"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0071651901304"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0071651901304",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "size": "12 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0019056912313",
+            "upc": "0019056912313",
+            "aisleLocations": [
+                {
+                    "bayNumber": "27",
+                    "description": "Aisle 17",
+                    "number": "17",
+                    "numberOfFacings": "1",
+                    "sequenceNumber": "6",
+                    "side": "R",
+                    "shelfNumber": "6",
+                    "shelfPositionInBay": "2"
+                }
+            ],
+            "brand": "Green Giant",
+            "categories": [
+                "Frozen"
+            ],
+            "description": "Green Giant Riced Veggies Cauliflower & Sweet Potato Frozen Vegetables",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0019056912313"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0019056912313"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0019056912313"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0019056912313"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0019056912313"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0019056912313",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "size": "12 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Frozen",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111091620",
+            "upc": "0001111091620",
+            "aisleLocations": [],
+            "brand": "Kroger (2695)",
+            "categories": [
+                "Produce"
+            ],
+            "description": "Kroger\u00ae Cut & Peeled Baby Carrots",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111091620"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111091620"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111091620"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111091620"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "back",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/back/0001111091620"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/back/0001111091620"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/back/0001111091620"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/back/0001111091620"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111091620",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "size": "1 lb"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111089782",
+            "upc": "0001111089782",
+            "aisleLocations": [],
+            "brand": "Kroger (2695)",
+            "categories": [
+                "Frozen"
+            ],
+            "description": "Kroger\u00ae Meal-Ready Sides California Style Vegetables",
+            "images": [
+                {
+                    "perspective": "left",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/left/0001111089782"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/left/0001111089782"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/left/0001111089782"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/left/0001111089782"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/left/0001111089782"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111089782"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111089782"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111089782"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111089782"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111089782"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "right",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/right/0001111089782"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/right/0001111089782"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/right/0001111089782"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/right/0001111089782"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/right/0001111089782"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111089782",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "12 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Frozen",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001450000440",
+            "upc": "0001450000440",
+            "aisleLocations": [
+                {
+                    "bayNumber": "27",
+                    "description": "Aisle 17",
+                    "number": "17",
+                    "numberOfFacings": "2",
+                    "sequenceNumber": "6",
+                    "side": "R",
+                    "shelfNumber": "3",
+                    "shelfPositionInBay": "2"
+                }
+            ],
+            "brand": "Birds Eye",
+            "categories": [
+                "Frozen"
+            ],
+            "countryOrigin": "UNITED STATES",
+            "description": "Birds Eye Classic Mixed Vegetables",
+            "images": [
+                {
+                    "perspective": "back",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/back/0001450000440"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/back/0001450000440"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/back/0001450000440"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/back/0001450000440"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/back/0001450000440"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001450000440"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001450000440"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001450000440"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001450000440"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001450000440"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001450000440",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "size": "16 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Frozen",
+                "heatSensitive": false
+            }
+        }
+    ],
+    "meat": [
+        {
+            "productId": "0021065600000",
+            "upc": "0021065600000",
+            "aisleLocations": [],
+            "brand": "Heritage Farm",
+            "categories": [
+                "Meat & Seafood"
+            ],
+            "description": "Heritage Farm\u2122 Boneless & Skinless Chicken Breasts with Rib Meat",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0021065600000"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0021065600000"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0021065600000"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0021065600000"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0021065600000"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0021065600000",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "1 lb"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0004470003050",
+            "upc": "0004470003050",
+            "aisleLocations": [
+                {
+                    "bayNumber": "5",
+                    "description": "Meat",
+                    "number": "101",
+                    "numberOfFacings": "1",
+                    "sequenceNumber": "4",
+                    "side": "L",
+                    "shelfNumber": "3",
+                    "shelfPositionInBay": "6"
+                }
+            ],
+            "brand": "Oscar Mayer",
+            "categories": [
+                "Meat & Seafood"
+            ],
+            "description": "Oscar Mayer Deli Fresh Oven Roasted Turkey Breast Lunch Meat",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0004470003050"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0004470003050"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0004470003050"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0004470003050"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0004470003050"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "back",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/back/0004470003050"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/back/0004470003050"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/back/0004470003050"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/back/0004470003050"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/back/0004470003050"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "right",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/right/0004470003050"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/right/0004470003050"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/right/0004470003050"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/right/0004470003050"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/right/0004470003050"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "bottom",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/bottom/0004470003050"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/bottom/0004470003050"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/bottom/0004470003050"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/bottom/0004470003050"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/bottom/0004470003050"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "top",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/top/0004470003050"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/top/0004470003050"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/top/0004470003050"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/top/0004470003050"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/top/0004470003050"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "left",
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/left/0004470003050"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/left/0004470003050"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/left/0004470003050"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/left/0004470003050"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/left/0004470003050"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0004470003050",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "size": "9 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111096942",
+            "upc": "0001111096942",
+            "aisleLocations": [],
+            "brand": "Kroger (2695)",
+            "categories": [
+                "Frozen"
+            ],
+            "description": "Kroger\u00ae Bone-In Skin On Chicken Party Wings",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111096942"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111096942"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111096942"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111096942"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111096942"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111096942",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "2.5 lb"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Frozen",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0004450097650",
+            "upc": "0004450097650",
+            "aisleLocations": [
+                {
+                    "bayNumber": "5",
+                    "description": "Meat",
+                    "number": "101",
+                    "numberOfFacings": "1",
+                    "sequenceNumber": "4",
+                    "side": "L",
+                    "shelfNumber": "5",
+                    "shelfPositionInBay": "4"
+                }
+            ],
+            "brand": "Hillshire Farm",
+            "categories": [
+                "Meat & Seafood"
+            ],
+            "description": "Hillshire Farm Ultra Thin Sliced Lunchmeat Oven Roasted Turkey Breast Lunch Meat",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0004450097650"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0004450097650"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0004450097650"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0004450097650"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0004450097650"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "right",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/right/0004450097650"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/right/0004450097650"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/right/0004450097650"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/right/0004450097650"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/right/0004450097650"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "bottom",
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/bottom/0004450097650"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/bottom/0004450097650"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/bottom/0004450097650"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/bottom/0004450097650"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/bottom/0004450097650"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "left",
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/left/0004450097650"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/left/0004450097650"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/left/0004450097650"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/left/0004450097650"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/left/0004450097650"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0004450097650",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "size": "9 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Refrigerated",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0003760039885",
+            "upc": "0003760039885",
+            "aisleLocations": [
+                {
+                    "bayNumber": "2",
+                    "description": "Meat",
+                    "number": "101",
+                    "numberOfFacings": "1",
+                    "sequenceNumber": "2",
+                    "side": "R",
+                    "shelfNumber": "1",
+                    "shelfPositionInBay": "1"
+                },
+                {
+                    "bayNumber": "4",
+                    "description": "Meat",
+                    "number": "101",
+                    "numberOfFacings": "1",
+                    "sequenceNumber": "3",
+                    "side": "L",
+                    "shelfNumber": "8",
+                    "shelfPositionInBay": "5"
+                },
+                {
+                    "bayNumber": "4",
+                    "description": "Meat",
+                    "number": "101",
+                    "numberOfFacings": "1",
+                    "sequenceNumber": "3",
+                    "side": "L",
+                    "shelfNumber": "8",
+                    "shelfPositionInBay": "6"
+                }
+            ],
+            "brand": "Hormel",
+            "categories": [
+                "Meat & Seafood",
+                "Deli"
+            ],
+            "countryOrigin": "UNITED STATES",
+            "description": "Hormel Original Pepperoni",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0003760039885"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0003760039885"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0003760039885"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0003760039885"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0003760039885"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "back",
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/back/0003760039885"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/back/0003760039885"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/back/0003760039885"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/back/0003760039885"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/back/0003760039885"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0003760039885",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "size": "6 oz"
+                }
+            ],
+            "itemInformation": {
+                "depth": "1.0",
+                "height": "5.74",
+                "width": "5.1"
+            },
+            "temperature": {
+                "indicator": "Ambient",
+                "heatSensitive": false
+            }
+        }
+    ],
+    "seafood": [
+        {
+            "productId": "0004132210900",
+            "upc": "0004132210900",
+            "aisleLocations": [],
+            "brand": "SeaPak",
+            "categories": [
+                "Frozen",
+                "Meat & Seafood"
+            ],
+            "description": "SeaPak Jumbo Butterfly Shrimp",
+            "images": [
+                {
+                    "perspective": "left",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/left/0004132210900"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/left/0004132210900"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/left/0004132210900"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/left/0004132210900"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/left/0004132210900"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "front",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0004132210900"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0004132210900"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0004132210900"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0004132210900"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0004132210900"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "right",
+                    "sizes": [
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/right/0004132210900"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/right/0004132210900"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/right/0004132210900"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/right/0004132210900"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/right/0004132210900"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0004132210900",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": true,
+                        "delivery": true,
+                        "inStore": true,
+                        "shipToHome": false
+                    },
+                    "size": "9 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Frozen",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111096371",
+            "upc": "0001111096371",
+            "aisleLocations": [],
+            "brand": "Kroger (2695)",
+            "categories": [
+                "Frozen",
+                "Meat & Seafood"
+            ],
+            "description": "Kroger\u00ae Crunchy Butterfly Shrimp",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111096371"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111096371"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111096371"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111096371"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "back",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/back/0001111096371"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/back/0001111096371"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/back/0001111096371"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/back/0001111096371"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111096371",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "32 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Frozen",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111096385",
+            "upc": "0001111096385",
+            "aisleLocations": [],
+            "brand": "Kroger (2695)",
+            "categories": [
+                "Frozen",
+                "Meat & Seafood"
+            ],
+            "description": "Kroger\u00ae Wild Caught Crunchy Popcorn Shrimp",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111096385"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111096385"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111096385"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111096385"
+                        },
+                        {
+                            "size": "xlarge",
+                            "url": "https://www.kroger.com/product/images/xlarge/front/0001111096385"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111096385",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "12 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Frozen",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111096387",
+            "upc": "0001111096387",
+            "aisleLocations": [],
+            "brand": "Kroger (2695)",
+            "categories": [
+                "Meat & Seafood",
+                "Frozen"
+            ],
+            "countryOrigin": "CHINA; INDIA; INDONESIA",
+            "description": "Kroger\u00ae Tail-Off Peeled & Deveined Large Cooked Shrimp",
+            "images": [
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111096387"
+                        },
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111096387"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111096387"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111096387"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "back",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/back/0001111096387"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/back/0001111096387"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/back/0001111096387"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/back/0001111096387"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111096387",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "12 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Frozen",
+                "heatSensitive": false
+            }
+        },
+        {
+            "productId": "0001111096421",
+            "upc": "0001111096421",
+            "aisleLocations": [],
+            "brand": "Kroger (2695)",
+            "categories": [
+                "Frozen",
+                "Meat & Seafood"
+            ],
+            "description": "Kroger\u00ae Wild Caught Cooked & Peeled Salad Shrimp",
+            "images": [
+                {
+                    "perspective": "back",
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/back/0001111096421"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/back/0001111096421"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/back/0001111096421"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/back/0001111096421"
+                        }
+                    ]
+                },
+                {
+                    "perspective": "front",
+                    "featured": true,
+                    "sizes": [
+                        {
+                            "size": "thumbnail",
+                            "url": "https://www.kroger.com/product/images/thumbnail/front/0001111096421"
+                        },
+                        {
+                            "size": "small",
+                            "url": "https://www.kroger.com/product/images/small/front/0001111096421"
+                        },
+                        {
+                            "size": "medium",
+                            "url": "https://www.kroger.com/product/images/medium/front/0001111096421"
+                        },
+                        {
+                            "size": "large",
+                            "url": "https://www.kroger.com/product/images/large/front/0001111096421"
+                        }
+                    ]
+                }
+            ],
+            "items": [
+                {
+                    "itemId": "0001111096421",
+                    "favorite": false,
+                    "fulfillment": {
+                        "curbside": false,
+                        "delivery": false,
+                        "inStore": false,
+                        "shipToHome": false
+                    },
+                    "size": "12 oz"
+                }
+            ],
+            "itemInformation": {},
+            "temperature": {
+                "indicator": "Frozen",
+                "heatSensitive": false
+            }
+        }
+    ]
+}

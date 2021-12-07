@@ -1,0 +1,407 @@
+{
+    "Banana" : [
+        {"calories": "105",
+            "carb": "27",
+            "protein":"1.3",
+            "fat":"0.4",
+            "sugar":"14",
+            "fiber":"3.1"
+        }
+    ],
+    "Large Avocado" : [
+        {"calories": "320",
+            "carb": "17.2",
+            "protein":"4",
+            "fat":"28",
+            "sugar":"1.2",
+            "fiber":"13.6"
+        }
+    ],
+    "Brownberry® Whole Grains Oatnut Bread" : [
+        {"calories": "1920",
+            "carb": "336",
+            "protein":"64",
+            "fat":"28",
+            "sugar":"48",
+            "fiber":"32"
+        }
+    ],
+    "Strawberries" : [
+        {"calories": "151",
+            "carb": "34",
+            "protein":"3.8",
+            "fat":"0",
+            "sugar":"22.7",
+            "fiber":"7.6"
+        }
+    ],
+    "Broccoli Crowns" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Brownberry® Whole Grains 100% Whole Wheat Bread" : [
+        {"calories": "1760",
+            "carb": "336",
+            "protein":"64",
+            "fat":"32",
+            "sugar":"48",
+            "fiber":"48"
+        }
+    ],
+    "Seedless Mandarins" : [
+        {"calories": "658",
+            "carb": "168",
+            "protein":"13",
+            "fat":"5",
+            "sugar":"137.2",
+            "fiber":"23.8"
+        }
+    ],
+    "Roma Tomato" : [
+        {"calories": "11",
+            "carb": "2.4",
+            "protein":"0.6",
+            "fat":"0.1",
+            "sugar":"1.6",
+            "fiber":"0.7"
+        }
+    ],
+    "Large Lime" : [
+        {"calories": "20",
+            "carb": "7",
+            "protein":"0.5",
+            "fat":"0.1",
+            "sugar":"1.1",
+            "fiber":"1.9"
+        }
+    ],
+    "Thomas' Nooks & Crannies Original English Muffins" : [
+        {"calories": "720",
+            "carb": "125",
+            "protein":"24",
+            "fat":"6",
+            "sugar":"6",
+            "fiber":"6"
+        }
+    ],
+    "Green Onions" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Roundy's® Grade A Large Eggs" : [
+        {"calories": "840",
+            "carb": "0",
+            "protein":"72",
+            "fat":"60",
+            "sugar":"0",
+            "fiber":"0"
+        }
+    ],
+    "Cucumber" : [
+        {"calories": "14",
+            "carb": "3",
+            "protein":"1",
+            "fat":"0",
+            "sugar":"2",
+            "fiber":"1"
+        }
+    ],
+    "Large Green Bell Pepper" : [
+        {"calories": "33",
+            "carb": "7.6",
+            "protein":"1.4",
+            "fat":"0.3",
+            "sugar":"4",
+            "fiber":"2.8"
+        }
+    ],
+    "Roundy's® Select 2% Reduced Fat Milk" : [
+        {"calories": "1920",
+            "carb": "192",
+            "protein":"128",
+            "fat":"80",
+            "sugar":"192",
+            "fiber":"0"
+        }
+    ],
+    "Blueberries" : [
+        {"calories": "176",
+            "carb": "45.1",
+            "protein":"2.3",
+            "fat":"1",
+            "sugar":"30.8",
+            "fiber":"7.5"
+        }
+    ],
+    "Red Seedless Grapes" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Raspberries" : [
+        {"calories": "133",
+            "carb": "30.56",
+            "protein":"3.1",
+            "fat":"1.66",
+            "sugar":"11.3",
+            "fiber":"16.6"
+        }
+    ],
+    "Asparagus" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Lemons" : [
+        {"calories": "17",
+            "carb": "5",
+            "protein":"0.6",
+            "fat":"0.2",
+            "sugar":"1.5",
+            "fiber":"1.6"
+        }
+    ],
+    "blueberries -- there is a duplicate size like work it out" : [
+        {"calories": "17",
+            "carb": "5",
+            "protein":"0.6",
+            "fat":"0.2",
+            "sugar":"1.5",
+            "fiber":"1.6"
+        }
+    ],
+    "Zucchini" : [
+        {"calories": "33",
+            "carb": "6",
+            "protein":"2.6",
+            "fat":"0.6",
+            "sugar":"4.9",
+            "fiber":"2"
+        }
+    ],
+    "Kroger® Cut & Peeled Baby Carrots" : [
+        {"calories": "181",
+            "carb": "36.3",
+            "protein":"4.5",
+            "fat":"0",
+            "sugar":"22.7",
+            "fiber":"4.5"
+        }
+    ],
+    "Sweet Onions" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Garlic" : [
+        {"calories": "45",
+            "carb": "9.9",
+            "protein":"1.9",
+            "fat":"0.1",
+            "sugar":"0.3",
+            "fiber":"0.6"
+        }
+    ],
+    "Red Bell Pepper" : [
+        {"calories": "32",
+            "carb": "7.6",
+            "protein":"1",
+            "fat":"0.2",
+            "sugar":"5",
+            "fiber":"1.4"
+        }
+    ],
+    "Cilantro" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Medium Yellow Onions" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Jewel Yams Sweet Potatoes" : [
+        {"calories": "103",
+            "carb": "24",
+            "protein":"2.3",
+            "fat":"0.2",
+            "sugar":"7.4",
+            "fiber":"3.8"
+        }
+    ],
+    "Jumbo Red Onions" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Honeycrisp Apple" : [
+        {"calories": "55",
+            "carb": "15",
+            "protein":"0",
+            "fat":"0",
+            "sugar":"11",
+            "fiber":"3"
+        }
+    ],
+    "Green Seedless Grapes" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Organic Banana" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "On The Vine Tomatoes (4 - 5 Tomatoes per Bunch)" : [
+        {"calories": "110",
+            "carb": "24",
+            "protein":"5.5",
+            "fat":"1.3",
+            "sugar":"16",
+            "fiber":"7.5"
+        }
+    ],
+    "Celery" : [
+        {"calories": "6.8",
+            "carb": "1.5",
+            "protein":"0.3", 
+            "fat":"0.1",
+            "sugar":"0.9",
+            "fiber":"0.6"
+        }
+    ],
+    "Roundy's® Select Vitamin D Whole Milk" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Roundy's® Select 1% Low Fat Milk" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Russet Potato" : [
+        {"calories": "168",
+            "carb": "37",
+            "protein":"4.5",
+            "fat":"0.2",
+            "sugar":"1.9",
+            "fiber":"4"
+        }
+    ],
+    "Roundy's® Select Fat Free Skim Milk" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Kroger® Grape Tomatoes" : [
+        {"calories": "47",
+            "carb": "10.2",
+            "protein":"2.3",
+            "fat":"0.5",
+            "sugar":"6.9",
+            "fiber":"3.1"
+        }
+    ],
+    "Simple Truth™ Natural Cage Free Grade A Large Brown Eggs" : [
+        {"calories": "840",
+            "carb": "0",
+            "protein":"72",
+            "fat":"60",
+            "sugar":"0",
+            "fiber":"0"
+        }
+    ],
+    "Simple Truth Organic™ Baby Spinach" : [
+        {"calories": "35",
+            "carb": "5",
+            "protein":"4",
+            "fat":"0.5",
+            "sugar":"1",
+            "fiber":"3"
+        }
+    ],
+    "Large Gala Apple" : [
+        {"calories": "98",
+            "carb": "24",
+            "protein":"0.4",
+            "fat":"0.2",
+            "sugar":"18",
+            "fiber":"4"
+        }
+    ],
+    "Iceberg Lettuce" : [
+        {"calories": "105",
+            "carb": "22",
+            "protein":"7",
+            "fat":"1.1",
+            "sugar":"15",
+            "fiber":"9"
+        }
+    ],
+    "English Cucumber" : [
+        {"calories": "30",
+            "carb": "7.3",
+            "protein":"1.3",
+            "fat":"0.2",
+            "sugar":"3.4",
+            "fiber":"1"
+        }
+    ],
+}
