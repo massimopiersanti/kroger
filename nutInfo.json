@@ -404,4 +404,175 @@
             "fiber":"1"
         }
     ],
+    "Cauliflower" : [
+        {"calories": "132",
+            "carb": "24",
+            "protein":"11",
+            "fat":"2.6",
+            "sugar":"12",
+            "fiber":"13"
+        }
+    ],
+    "Kroger® Salted Butter Sticks" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Jalapeno Peppers" : [
+        {"calories": "4.1",
+            "carb": "0.9",
+            "protein":"0.1",
+            "fat":"0.1",
+            "sugar":"0.6",
+            "fiber":"0.4"
+        }
+    ],
+    "Green Beans" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "White Onions" : [
+        {"calories": "41",
+            "carb": "9.5",
+            "protein":"1.3",
+            "fat":"0.2",
+            "sugar":"4.4",
+            "fiber":"1.3"
+        }
+    ],
+    "Rotisserie Chicken (NOT AVAILABLE FOR ORDERS BEFORE 11:00 am DAILY)" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Atlantic Salmon Fillet" : [
+        {"calories": "936",
+            "carb": "0",
+            "protein":"100",
+            "fat":"56",
+            "sugar":"0",
+            "fiber":"0"
+        }
+    ],
+    "Bakery Fresh Goodness Donut" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "South African Navel Oranges" : [
+        {"calories": "80",
+            "carb": "19",
+            "protein":"1",
+            "fat":"0",
+            "sugar":"14",
+            "fiber":"3"
+        }
+    ],
+    "Kroger® Yellow Onions" : [
+        {"calories": "1800",
+            "carb": "108",
+            "protein":"12",
+            "fat":"141",
+            "sugar":"0",
+            "fiber":"24"
+        }
+    ],
+    "Kroger® Unsalted Butter Sticks" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Kroger® Whole Carrots" : [
+        {"calories": "186",
+            "carb": "43.5",
+            "protein":"4.2",
+            "fat":"1.1",
+            "sugar":"20.1",
+            "fiber":"12.7"
+        }
+    ],
+    "Ginger Root" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Heritage Farm Boneless & Skinless Chicken Breasts with Rib Meat" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Orange Bell Pepper" : [
+        {"calories": "32",
+            "carb": "7.6",
+            "protein":"1",
+            "fat":"0.2",
+            "sugar":"5",
+            "fiber":"2"
+        }
+    ],
+    "Gold Pineapple" : [
+        {"calories": "452",
+            "carb": "119",
+            "protein":"4.9",
+            "fat":"1.1",
+            "sugar":"89",
+            "fiber":"13"
+        }
+    ],
+    "Brussels Sprouts" : [
+        {"calories": "196",
+            "carb": "41",
+            "protein":"15.5",
+            "fat":"1.5",
+            "sugar":"9.8",
+            "fiber":"17"
+        }
+    ],
+    "Perdue® Boneless Skinless Chicken Breast" : [
+        {"calories": "fill in",
+            "carb": "fill in",
+            "protein":"fill in",
+            "fat":"fill in",
+            "sugar":"fill in",
+            "fiber":"fill in"
+        }
+    ],
+    "Kroger® Romaine Lettuce Hearts" : [
+        {"calories": "90",
+            "carb": "18",
+            "protein":"5.4",
+            "fat":"1.8",
+            "sugar":"5.4",
+            "fiber":"10.8"
+        }
+    ],
 }
